@@ -62,7 +62,7 @@ nav{
     bottom: 0;
     width: 100%;
     box-sizing: border-box;
-    margin-bottom: 5px;
+    margin-bottom: 5px !important;
     display: flex;
     justify-content: center;
     height: 46px;
